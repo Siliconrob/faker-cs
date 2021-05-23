@@ -62,9 +62,4 @@
     <EmbeddedResource Include="..\Faker\Resources\Phone.resx" Link="Resources\Phone.resx" />
   </ItemGroup>
 
-  <ItemGroup>
-    <Folder Include="Extensions\" />
-    <Folder Include="Helpers\" />
-  </ItemGroup>
-  
 </Project>
